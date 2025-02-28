@@ -40,5 +40,5 @@ If the user enters an invalid option, the script displays an error message.
 
 If the entered PIN is incorrect, the script prompts the user to try again.
 
-Example Usage
-python
+
+
